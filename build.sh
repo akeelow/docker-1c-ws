@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build --tag alexanderfefelov/1c-ws .
+docker build --tag alexey/1c-ws .
